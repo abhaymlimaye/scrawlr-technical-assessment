@@ -1,0 +1,16 @@
+
+.upvote-button {
+    padding: 1rem;
+    border-radius: 0.75rem;
+    cursor: pointer;
+    border: none;
+    margin: .5rem;
+}
+.selected {
+    color: #253CF2;
+    background-color: #E5E8FD;
+}
+.default {
+    color: #343A40;
+    background-color: #F4F6F8;
+}

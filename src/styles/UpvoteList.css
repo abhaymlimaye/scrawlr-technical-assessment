@@ -1,0 +1,15 @@
+.upvote-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2.5rem;
+}
+
+.button-container {
+    width: 100%;
+    padding: .4rem;
+    border-radius: .75rem;
+    border-color: #e8e9eb;
+    border-width: 2px;
+    border-style: solid;
+}
